@@ -11,8 +11,7 @@ This project automates LinkedIn post creation using OpenAI and n8n.
 
 ## Demo
 
-Watch the demo on LinkedIn:
-(Paste your LinkedIn post URL here)
+Watch the demo on LinkedIn: https://drive.google.com/file/d/1hwqRIxaHIHoCEYZqYeMS6kWLB3r0sYca/view?usp=sharing
 
 ## Tech Stack
 
